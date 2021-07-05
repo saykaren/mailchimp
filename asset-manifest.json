@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mailchimp/static/css/main.09c20792.chunk.css",
+    "main.js": "/mailchimp/static/js/main.2ac54e24.chunk.js",
+    "main.js.map": "/mailchimp/static/js/main.2ac54e24.chunk.js.map",
+    "runtime-main.js": "/mailchimp/static/js/runtime-main.8ec5e585.js",
+    "runtime-main.js.map": "/mailchimp/static/js/runtime-main.8ec5e585.js.map",
+    "static/js/2.27c106a0.chunk.js": "/mailchimp/static/js/2.27c106a0.chunk.js",
+    "static/js/2.27c106a0.chunk.js.map": "/mailchimp/static/js/2.27c106a0.chunk.js.map",
+    "static/js/3.38c75ad5.chunk.js": "/mailchimp/static/js/3.38c75ad5.chunk.js",
+    "static/js/3.38c75ad5.chunk.js.map": "/mailchimp/static/js/3.38c75ad5.chunk.js.map",
+    "index.html": "/mailchimp/index.html",
+    "static/css/main.09c20792.chunk.css.map": "/mailchimp/static/css/main.09c20792.chunk.css.map",
+    "static/js/2.27c106a0.chunk.js.LICENSE.txt": "/mailchimp/static/js/2.27c106a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ec5e585.js",
+    "static/js/2.27c106a0.chunk.js",
+    "static/css/main.09c20792.chunk.css",
+    "static/js/main.2ac54e24.chunk.js"
+  ]
+}
