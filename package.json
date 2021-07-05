@@ -1,5 +1,6 @@
 {
   "name": "mailchimp",
+  "homepage": "https://saykaren.github.io/mailchimp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
